@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Jianfeihit</title>
+    <link href="/feed.xml" rel="self" />
+    <link href="http://blog.com" />
+    <updated>2013-03-04T07:21:09Z</updated>
+    <id>http://blog.com</id>
+    
+    <entry>
+        <title><![CDATA[常用地址导航]]></title>
+        <author><name>name</name><uri>http://blog.com</uri></author>
+        <link href="http://blog.com/2013-03-03-navigation.html"/>
+        <updated>2013-03-04T07:21:09Z</updated>
+        <published>2013-03-04T07:21:09Z</published>
+        <id>http://blog.com/2013-03-03-navigation.html</id>
+        <content type="html">
+            <![CDATA[
+             <p>鉴于飞信群公告区域可以放的东西太少，就把这里当做是一个公告区域.</p>
+
+<blockquote>
+<ul>
+<li><p>FTP地址：<a href="ftp://jianfeihit.showme.name">ftp://jianfeihit.showme.name</a></p></li>
+<li><p>朴海林的博客：<a href="http://phl.iteye.com">http://phl.iteye.com</a></p></li>
+<li><p>杨剑飞的博客：<a href="http://jianfeihit.iteye.com">http://jianfeihit.iteye.com</a></p></li>
+<li><p>王明华的博客：<a href="http://blog.csdn.net/saint1126">http://blog.csdn.net/saint1126</a></p></li>
+</ul>
+</blockquote>
+
+            ]]>
+        </content>
+    </entry>
+    
+</feed>
